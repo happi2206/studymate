@@ -2,6 +2,9 @@
 
 A SwiftUI + MVVM sample app that helps students manage assignments, exams, and readings. It demonstrates Protocol-Oriented Programming (POP), OOP inheritance, repositories, persistence to JSON, validation, error handling, and unit tests.
 
+## Link: 
+https://github.com/happi2206/studymate
+
 ## Requirements
 - iOS 17+
 - SwiftUI
